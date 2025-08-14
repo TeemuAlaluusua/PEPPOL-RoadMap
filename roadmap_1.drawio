@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1177" dy="1303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="974" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="ov1N7ag6DKZ-0V74_zyp-6" value="&lt;div&gt;Ordering 3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="20" y="140.00000000000003" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vd2ycQLSVYX_bV4Vcwtc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1c1d494c118603dd-2" source="ov1N7ag6DKZ-0V74_zyp-9" target="vd2ycQLSVYX_bV4Vcwtc-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ov1N7ag6DKZ-0V74_zyp-9" value="Advanced Despatch Advice with Receipt Advice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="40" y="320" width="90" height="65" as="geometry" />
@@ -78,11 +81,20 @@
             <mxPoint x="405" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tsWJ6s4taVNARHcV3OjV-2" value="1.2.2025" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1c1d494c118603dd-2">
+        <mxCell id="tsWJ6s4taVNARHcV3OjV-2" value="1.2.2025" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1c1d494c118603dd-2" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint y="40" as="sourcePoint" />
             <mxPoint x="190" y="40" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vd2ycQLSVYX_bV4Vcwtc-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1c1d494c118603dd-2" source="vd2ycQLSVYX_bV4Vcwtc-1" target="vd2ycQLSVYX_bV4Vcwtc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vd2ycQLSVYX_bV4Vcwtc-1" value="Despatch Advice" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="10" y="450" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vd2ycQLSVYX_bV4Vcwtc-3" value="Receipt Advice" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="90" y="515" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
